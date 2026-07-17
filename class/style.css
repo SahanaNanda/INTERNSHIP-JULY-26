@@ -1,6 +1,5 @@
-h2{
-    color:blueviolet;
-}
-h4{
-    color:darkgreen;
+div{
+    width: 200px;
+    text-align: center;
+    border: 5px coral dotted;
 }

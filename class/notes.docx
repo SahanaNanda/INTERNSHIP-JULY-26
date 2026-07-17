@@ -1,0 +1,12 @@
+pseudo classes -
+visited,active,hover,input:focus (form),first-child/last-child
+*{ } - universal
+.class_name - class selector
+group selector - elemnt1,elemnt2,element3{ }
+id selector- #id_name
+element selector- elemntname{ }
+1 rem - 16px
+1 em - 20px
+dummy text - lorem100(words)
+box model - 
+margin,content,border and padding
